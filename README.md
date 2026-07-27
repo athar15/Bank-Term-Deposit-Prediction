@@ -163,9 +163,8 @@ Bank-Term-Deposit-Prediction/
 ├── 02_Bank_Term_Deposit_Prediction.ipynb
 ├── README.md
 ```
+-----
 
----
+** Md Athar Imam **
 
-Md Athar Imam
-
-tps://github.com/YOUR_GITHUB
+LinkedIn: https://www.linkedin.com/in/athar-imam/
