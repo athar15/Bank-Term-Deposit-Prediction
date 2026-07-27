@@ -166,7 +166,7 @@ Bank-Term-Deposit-Prediction/
 
 ---
 
-**Md Athar Imam**
+Md Athar Imam
 
 
 
