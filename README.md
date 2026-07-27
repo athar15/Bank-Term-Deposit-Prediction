@@ -168,10 +168,4 @@ Bank-Term-Deposit-Prediction/
 
 Md Athar Imam
 
-
-
-
-
-
-
 tps://github.com/YOUR_GITHUB
